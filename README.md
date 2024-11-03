@@ -1,4 +1,4 @@
-# simple-linear-regression
+# Simple Linear Regression (Regressão Linear Simples)
 
 A regressão linear é uma técnica estatística fundamental utilizada para modelar a relação entre uma variável dependente e uma ou mais variáveis independentes. Em sua forma mais simples, conhecida como regressão linear simples, a técnica busca encontrar a linha reta que melhor se ajusta aos dados, minimizando a soma dos quadrados das diferenças entre os valores observados e os valores previstos.
 
